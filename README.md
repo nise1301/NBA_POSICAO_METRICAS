@@ -68,6 +68,6 @@ O modelo tem facilidade em distinguir posições extremas, mas confunde posiçõ
 
 ---
 
-Autores: Denise Ramos Soares e Izabella Bonfim
+Autores: Denise Ramos Soares e Izabella Amorim
 
 *Desenvolvido como parte da disciplina de Introdução à Ciência de Dados, ministrada pelo professor Erneson Alves de Oliveira - Mestrado em Informática Aplicada (Unifor).*
